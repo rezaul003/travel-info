@@ -1,0 +1,60 @@
+.head1{
+	color: brown;
+	font-size: 40px;
+	border: 2px solid brown;
+	text-align: center;
+}
+
+.t1 th, td {
+	color: brown;
+	font-size: 25px;
+	border: 1px solid;
+
+}
+
+.head2{
+	color: brown;
+	font-size: 30px;
+	border: 1px solid brown;
+	width: 250px;
+
+}
+
+h2{
+	color: brown;
+}
+.line1{
+	font-size: 25px;
+}
+
+#ps{
+	font-size: 27px;
+	color: brown;
+}
+.wrapper{
+	color: brown;
+	width: 35%;
+	margin: 1%;
+	border: 1px solid brown;	
+}
+
+.l1{
+	font-size: 20px;
+}
+
+#describe{
+	width: 90%;
+	height: 110px;
+	padding: 5px;
+}
+
+#btn{
+	font-size: 22px;
+	width: 32%;
+}
+
+.form{
+	width: 90%;
+	height: 15px;
+	padding: 5px;
+}
